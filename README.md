@@ -6,7 +6,7 @@
 
 ![RodrigoApol's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoApol&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
 
-## Tecnologias: 
+## 🔧 Tools: 
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=withe)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)

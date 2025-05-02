@@ -1,7 +1,8 @@
 ### Hello! 👋
 
 🙋🏻 Meu nome é Rodrigo Apolinário!<br/>
-📚 Sou estudante de TI e desenvolvedor .NET<br/>
+📚 Graduando em Análise e Desenvolvimento de Sistemas<br/>
+👨🏻‍💻 Atualmente sou estagiário na área de suporte técncio e sustentação de sistemas.
 🔎 Aqui você encontrará projetos pessoais ralacionados a C# / .NET e outras tecnologias
 
 ![RodrigoApol's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoApol&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)

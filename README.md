@@ -2,9 +2,7 @@
 
 🙋🏻 Meu nome é Rodrigo Apolinário!<br/>
 📚 Graduando em Análise e Desenvolvimento de Sistemas<br/>
-👨🏻‍💻 Estagiário na área de suporte técncio e sustentação de sistemas.
-
-![RodrigoApol's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoApol&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
+👨🏻‍💻 Estagiário de TI com foco em integrações de sistemas com SAP BTP Integration Suite.
 
 <!-- ## 🔧 Tools: 
 

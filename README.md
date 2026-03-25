@@ -1,5 +1,4 @@
 ### Hello! 👋
 
-🙋🏻 Meu nome é Rodrigo Apolinário!<br/>
 📚 Graduando em Análise e Desenvolvimento de Sistemas<br/>
-👨🏻‍💻 Estagiário de TI com foco em integrações de sistemas.
+👨🏻‍💻 Analista de Integração de Sistemas na [SLC Agrícola S/A](https://www.slcagricola.com.br/).
